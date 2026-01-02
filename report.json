@@ -1,0 +1,10 @@
+{
+    "domain": "evendo.com",
+    "ip": "172.66.169.132",
+    "alive_subdomains": [
+        {
+            "subdomain": "http://www.evendo.com",
+            "status": 200
+        }
+    ]
+}
